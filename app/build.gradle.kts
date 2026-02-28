@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ir_remote_for_moodlight"
+    namespace = "com.ryaman.ir_remote_for_moodlight"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.ir_remote_for_moodlight"
+        applicationId = "com.ryaman.ir_remote_for_moodlight"
         minSdk = 21
         targetSdk = 36
         versionCode = 1

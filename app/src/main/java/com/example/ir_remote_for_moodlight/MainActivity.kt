@@ -1,4 +1,4 @@
-package com.example.ir_remote_for_moodlight
+package com.ryaman.ir_remote_for_moodlight
 import androidx.compose.foundation.gestures.detectTapGestures
 import androidx.compose.ui.input.pointer.pointerInput
 import android.annotation.SuppressLint
